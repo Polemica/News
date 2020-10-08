@@ -1,0 +1,35 @@
+body{background-color: black;}
+
+.gif
+{
+
+height: auto;
+max-width: border;
+
+}
+
+.telegram
+{
+    text-align: center;
+}
+
+.freespeech
+{
+    text-align: center;
+}
+
+.textinho
+{
+    color: whitesmoke;
+    text-align: center;
+}
+
+
+
+
+@media only screen and (max-width: 600px) {
+  
+    .qr 
+    {display: none;}
+    
+    }
